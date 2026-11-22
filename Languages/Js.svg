@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20" height="20" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="100" height="100" style="fill:none;"/>
+    <g id="Artboard11" affinity:id="Artboard1">
+        <g id="Languages" transform="matrix(1.430099,0,0,1.430099,-5.299706,-21.5065)">
+            <g id="JS" transform="matrix(0.006637,-0,0,0.006637,8.486081,15.435844)">
+                <g transform="matrix(73.353495,0,0,73.353495,0,17.399933)">
+                    <path d="M10.383,126.894L0,0L124,0.255L113.021,126.894L62.468,141.532L10.383,126.894Z" style="fill:rgb(233,202,50);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(73.353495,0,0,73.353495,0,17.399933)">
+                    <path d="M62.468,129.277L62.468,12.085L113.532,12.255L104.426,117.106L62.468,129.277Z" style="fill:rgb(255,222,37);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(73.353495,0,0,73.353495,0,17.399933)">
+                    <path d="M57,26L43.5,26L43.5,104L33,102L33,91.5L20.5,89.5L20.5,113L57,122.5L57,26ZM67.127,26L104.5,26L102,40.95L81.394,40.95L81.394,65.483L102,65.483L99.5,115L67.127,122.5L67.127,107L89,99.5L90.263,79L67.127,82.35L67.127,26Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

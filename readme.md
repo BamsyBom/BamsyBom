@@ -1,0 +1,30 @@
+## BamsyBom &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BamsyBom.com](SocialMedia/WebSite.svg)](https://www.bamsybom.com) [![LinkedIn](SocialMedia/LinkedIn.svg)](https://www.linkedin.com/in/bamsybom) [![YouTube](SocialMedia/YouTube.svg)](https://youtube.com/@BamsyBom) [![Instagram](SocialMedia/Instagram.svg)](https://instagram.com/bamsybom)&nbsp;[![TikTok](SocialMedia/TikTok.svg)](https://tiktok.com/@bamsybom) [![X](SocialMedia/X.svg)](https://x.com/BamsyBom) [![Riddet](SocialMedia/Riddet.svg)](https://www.reddit.com/user/BamsyBom/) 
+<div align="center">
+       
+
+![Flutter](Tech/Flutter.svg)
+![Flutter](Tech/Git.svg)
+![Flutter](Tech/Wordpress.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Flutter](Apps/Blender.svg)
+![Flutter](Apps/Docker.svg)
+![Flutter](Apps/Figma.svg)
+![Flutter](Apps/PhotoShop.svg)
+![Flutter](Apps/Visual_studio.svg)
+![Flutter](Apps/affinty.svg)
+![Flutter](Apps/ilstrator.svg)
+![Flutter](Apps/notion.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Flutter](Languages/Cpp.svg)
+![Flutter](Languages/Csharp.svg)
+![Flutter](Languages/Rust.svg)&nbsp;&nbsp;&nbsp;
+![Flutter](Languages/Html.svg)
+![Flutter](Languages/Css.svg)
+![Flutter](Languages/Js.svg)&nbsp;&nbsp;&nbsp;
+![Flutter](Languages/Dart.svg)
+
+</div>
+
+## About Me: 
+
+<!-- First Comment -->
+
+       

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20" height="20" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="100" height="100" style="fill:none;"/>
+    <g id="Artboard11" affinity:id="Artboard1">
+        <g id="Apps">
+            <g id="affinty" transform="matrix(0.097111,0,0,0.097111,1.444625,1.444625)">
+                <g transform="matrix(20.833333,0,0,20.833333,0,0)">
+                    <path d="M43.057,0C45.785,0 48,2.215 48,4.943L48,43.057C48,45.785 45.785,48 43.057,48L4.943,48C2.215,48 0,45.785 0,43.057L0,4.943C0,2.215 2.215,0 4.943,0L43.057,0Z" style="fill:rgb(167,241,117);"/>
+                </g>
+                <g transform="matrix(4.166667,0,0,4.166667,0,0)">
+                    <path d="M112.908,165.979C102.495,165.979 95.871,159.662 95.871,151.65C95.871,117.363 186.035,110.499 186.035,74.087C186.035,51.874 160.304,42.3 127.458,42.3C107.478,42.3 84.887,45.998 63.906,52.615L63.906,96.053C94.825,73.533 129.178,63.893 151.306,63.893C165.22,63.893 174.661,67.775 174.661,74.731C174.661,103.389 50.308,98.848 50.308,160.773C50.308,184.509 66.629,198.108 89.591,198.108C124.323,198.108 150.594,164.355 170.248,123.211L174.23,124.641C163.879,149.784 142.459,177.353 138.287,195.075L183.002,195.075L183.002,103.39L172.675,103.39C157.685,135.964 135.718,165.98 112.908,165.98" style="fill:rgb(14,19,24);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

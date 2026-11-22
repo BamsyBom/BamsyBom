@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20" height="20" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="100" height="100" style="fill:none;"/>
+    <g id="Artboard11" affinity:id="Artboard1">
+        <g id="Apps">
+            <g id="Figma" transform="matrix(0.969259,0,0,0.969259,1.537069,-2.177739)">
+                <g transform="matrix(4.166667,0,0,4.166667,-16.666667,-13.22991)">
+                    <path d="M12,4L16,4L16,12L12,12C9.806,12 8,10.194 8,8C8,5.806 9.806,4 12,4" style="fill:rgb(244,81,30);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(4.166667,0,0,4.166667,-16.666667,-13.22991)">
+                    <path d="M20,12L16,12L16,4L20,4C22.194,4 24,5.806 24,8C24,10.194 22.194,12 20,12" style="fill:rgb(255,138,101);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(-4.166667,-0,0,-4.166667,150,120.103424)">
+                    <circle cx="20" cy="16" r="4" style="fill:rgb(41,182,246);"/>
+                </g>
+                <g transform="matrix(4.166667,0,0,4.166667,-16.666667,-13.22991)">
+                    <path d="M12,12L16,12L16,20L12,20C9.806,20 8,18.194 8,16C8,13.806 9.806,12 12,12" style="fill:rgb(124,77,255);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(4.166667,0,0,4.166667,-16.666667,-13.22991)">
+                    <path d="M12,20L16,20L16,24C16,26.194 14.194,28 12,28C9.806,28 8,26.194 8,24C8,21.806 9.806,20 12,20" style="fill:rgb(0,230,118);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

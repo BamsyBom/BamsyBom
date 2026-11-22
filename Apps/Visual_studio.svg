@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20" height="20" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="100" height="100" style="fill:none;"/>
+    <g id="Artboard11" affinity:id="Artboard1">
+        <g id="Visual_studio" transform="matrix(4.057245,0,0,4.057245,-14.915913,-14.915913)">
+            <g id="Apps">
+                <path id="Visual_studio1" affinity:id="Visual_studio" d="M22,11.8L16.3,16.384L22,20.8L22,11.8ZM7.24,23.68L4,21.64L4,10.84L7.6,9.64L12.76,13.636L23.2,4L28,7L28,25.6L22,28L12.808,19.192L7.24,23.68ZM7.6,18.4L9.832,16.336L7.6,14.2L7.6,18.4Z" style="fill:rgb(171,71,188);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
