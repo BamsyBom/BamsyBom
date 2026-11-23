@@ -1,7 +1,6 @@
 ## BamsyBom &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BamsyBom.com](SocialMedia/WebSite.svg)](https://www.bamsybom.com) [![X](SocialMedia/Cubed/XCube.svg)](https://x.com/BamsyBom) [![LinkedIn](SocialMedia/Cubed/LinkedInCube.svg)](https://www.linkedin.com/in/bamsybom) [![YouTube](SocialMedia/Cubed/YouTubeCube.svg)](https://youtube.com/@BamsyBom) [![Instagram](SocialMedia/Cubed/InstagramCube.svg)](https://instagram.com/bamsybom) [![TikTok](SocialMedia/Cubed/TikTokCube.svg)](https://tiktok.com/@bamsybom) [![Riddet](SocialMedia/Cubed/RiddetCube.svg)](https://www.reddit.com/user/BamsyBom/) 
 <div align="center">
        
-
 ![Flutter](Tech/Flutter.svg)
 ![Flutter](Tech/Git.svg)
 ![Flutter](Tech/Wordpress.svg)
