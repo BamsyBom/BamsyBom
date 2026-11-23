@@ -1,11 +1,4 @@
-## BamsyBom &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![BamsyBom.com](SocialMedia/Cubed/WebSite.svg)](https://www.bamsybom.com) 
-[![LinkedIn](SocialMedia/Cubed/LinkedInCube.svg)](https://www.linkedin.com/in/bamsybom)
-[![YouTube](SocialMedia/Cubed/YouTubeCube.svg)](https://youtube.com/@BamsyBom)
-[![Instagram](SocialMedia/Cubed/InstagramCube.svg)](https://instagram.com/bamsybom)&nbsp;
-[![TikTok](SocialMedia/Cubed/TikTokCube.svg)](https://tiktok.com/@bamsybom) 
-[![X](SocialMedia/Cubed/XCube.svg)](https://x.com/BamsyBom)
-[![Riddet](SocialMedia/Cubed/RiddetCube.svg)](https://www.reddit.com/user/BamsyBom/) 
+## BamsyBom &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BamsyBom.com](SocialMedia/Cubed/WebSite.svg)](https://www.bamsybom.com) [![LinkedIn](SocialMedia/Cubed/LinkedInCube.svg)](https://www.linkedin.com/in/bamsybom) [![YouTube](SocialMedia/Cubed/YouTubeCube.svg)](https://youtube.com/@BamsyBom) [![X](SocialMedia/Cubed/XCube.svg)](https://x.com/BamsyBom) [![Instagram](SocialMedia/Cubed/InstagramCube.svg)](https://instagram.com/bamsybom)&nbsp; [![TikTok](SocialMedia/Cubed/TikTokCube.svg)](https://tiktok.com/@bamsybom) [![Riddet](SocialMedia/Cubed/RiddetCube.svg)](https://www.reddit.com/user/BamsyBom/) 
 <div align="center">
        
 
