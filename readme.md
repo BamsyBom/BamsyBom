@@ -23,13 +23,10 @@
 
 </div>
 
-#### Learning Now:&nbsp;  
-![Flutter](Languages/Dart.svg)&nbsp;&nbsp;
+#### Learning Now:
+<img src="Languages/Dart.svg" height="20">
 
-
-
-
-
+<hr style="height: 2px; border-width: 0; color: green; background-color: green">
 
 
 <!-- First Comment -->
