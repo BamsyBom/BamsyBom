@@ -4,9 +4,9 @@
 
 ![Flutter](Tech/Flutter.svg)
 ![Flutter](Tech/Git.svg)
-![Flutter](Tech/Wordpress.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Flutter](Tech/Wordpress.svg)
+![Flutter](Tech/Docker.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Flutter](Apps/Blender.svg)
-![Flutter](Apps/Docker.svg)
 ![Flutter](Apps/Figma.svg)
 ![Flutter](Apps/PhotoShop.svg)
 ![Flutter](Apps/Visual_studio.svg)
