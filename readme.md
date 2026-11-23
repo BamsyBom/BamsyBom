@@ -2,30 +2,29 @@
 
 <div align="center">
 
-![Flutter](Tech/Flutter.svg)
-![Flutter](Tech/Git.svg)
-![Flutter](Tech/Wordpress.svg)
-![Flutter](Tech/Docker.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Flutter](Apps/Blender.svg)
-![Flutter](Apps/Figma.svg)
-![Flutter](Apps/PhotoShop.svg)
-![Flutter](Apps/Visual_studio.svg)
-![Flutter](Apps/affinty.svg)
-![Flutter](Apps/ilstrator.svg)
-![Flutter](Apps/notion.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Flutter](Languages/Html.svg)
-![Flutter](Languages/Css.svg)
-![Flutter](Languages/Js.svg)&nbsp;&nbsp;
-![Flutter](Languages/Cpp.svg)
-![Flutter](Languages/Csharp.svg)
-![Flutter](Languages/Rust.svg)
-![Flutter](Languages/Dart.svg)&nbsp;&nbsp;
+![Tech](Tech/Flutter.svg)                  <!-- Tech -->
+![Tech](Tech/Git.svg)
+![Tech](Tech/Wordpress.svg)
+![Tech](Tech/Docker.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Apps](Apps/Blender.svg)                 <!-- Apps -->
+![Apps](Apps/Figma.svg)
+![Apps](Apps/PhotoShop.svg)
+![Apps](Apps/Visual_studio.svg)
+![Apps](Apps/affinty.svg)
+![Apps](Apps/ilstrator.svg)
+![Apps](Apps/notion.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Languages](Languages/Html.svg)          <!-- Languages -->
+![Languages](Languages/Css.svg)
+![Languages](Languages/Js.svg)&nbsp;&nbsp;
+![Languages](Languages/Cpp.svg)
+![Languages](Languages/Csharp.svg)
+![Languages](Languages/Rust.svg)
+![Languages](Languages/Dart.svg)&nbsp;&nbsp;
 
 </div>
 
 #### Learning Now:
 <img src="Languages/Dart.svg" height="20">
-
 <img src="Files/line_green.svg" width="100%" height="1">
 
 <!-- First Comment -->
