@@ -13,13 +13,13 @@
 ![Flutter](Apps/affinty.svg)
 ![Flutter](Apps/ilstrator.svg)
 ![Flutter](Apps/notion.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Flutter](Languages/Cpp.svg)
-![Flutter](Languages/Csharp.svg)
-![Flutter](Languages/Rust.svg)&nbsp;&nbsp;
 ![Flutter](Languages/Html.svg)
 ![Flutter](Languages/Css.svg)
 ![Flutter](Languages/Js.svg)&nbsp;&nbsp;
-![Flutter](Languages/Dart.svg)
+![Flutter](Languages/Cpp.svg)
+![Flutter](Languages/Csharp.svg)
+![Flutter](Languages/Rust.svg)
+![Flutter](Languages/Dart.svg)&nbsp;&nbsp;
 
 </div>
 
