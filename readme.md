@@ -26,8 +26,7 @@
 #### Learning Now:
 <img src="Languages/Dart.svg" height="20">
 
-<hr style="height: 2px; border-width: 0; color: green; background-color: green">
-
+<img src="Files/line.svg" width="100%" height="1">
 
 <!-- First Comment -->
 
