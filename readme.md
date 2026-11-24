@@ -17,14 +17,13 @@
 ![Languages](Languages/Css.svg)
 ![Languages](Languages/Js.svg)&nbsp;&nbsp;
 ![Languages](Languages/Cpp.svg)
-![Languages](Languages/Csharp.svg)
-![Languages](Languages/Rust.svg)
-![Languages](Languages/Dart.svg)&nbsp;&nbsp;
+![Languages](Languages/Csharp.svg)&nbsp;&nbsp;
 
 </div>
 
 #### Learning Now:
 <img src="Languages/Dart.svg" height="20">
+<img src="Languages/Rust.svg" height="20">
 <img src="Files/line_green.svg" width="100%" height="1">
 
 <!-- First Comment -->
